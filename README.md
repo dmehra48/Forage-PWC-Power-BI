@@ -18,6 +18,9 @@ Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 Call Centre Trends
 
+<img width="593" alt="image" src="https://github.com/dmehra48/Forage-PWC-Power-BI/assets/109553967/98e72429-6b79-4927-adda-156ab7ad222a">
+
+
 Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -29,6 +32,10 @@ Currently, we get in touch after they have terminated the contract, but this is 
 We have done customer analysis with Excel: it has always ended in a dead-end
 We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
 Customer Retention Customer Retention
+
+<img width="508" alt="image" src="https://github.com/dmehra48/Forage-PWC-Power-BI/assets/109553967/a6b30d7a-f7a8-42a9-bab3-6da6b2a1165a">
+<img width="507" alt="image" src="https://github.com/dmehra48/Forage-PWC-Power-BI/assets/109553967/1ce9962b-1303-4fe8-b0e4-6aec06b5c0cb">
+
 
 Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
@@ -48,3 +55,11 @@ number of leavers
 Average performance rating: men
 Average Performance rating: women
 Diversity & Inclusion Diversity & Inclusion
+
+<img width="609" alt="image" src="https://github.com/dmehra48/Forage-PWC-Power-BI/assets/109553967/35dddc4a-cb3c-4069-affb-c3fcb04d86ab">
+<img width="608" alt="image" src="https://github.com/dmehra48/Forage-PWC-Power-BI/assets/109553967/efad9e6d-1ff1-499d-af66-071f90f146fd">
+
+
+
+
+
